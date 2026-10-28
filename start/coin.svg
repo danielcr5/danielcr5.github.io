@@ -1,0 +1,13 @@
+<svg width="584" height="465" viewBox="0 0 584 465" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M53.5957 308.005L492.532 109.18L529.181 169.238L98.0756 355.166L53.5957 308.005Z" fill="#FDBC0A"/>
+<ellipse cx="234.95" cy="57.8891" rx="234.95" ry="57.8891" transform="matrix(0.915891 -0.401427 0.572336 0.820019 66.1318 307.87)" fill="#FDBC0A"/>
+<ellipse cx="241.584" cy="59.2968" rx="241.584" ry="59.2968" transform="matrix(0.915891 -0.401427 0.572336 0.820019 19.7231 257.9)" fill="url(#paint0_linear_11237_3411)"/>
+<ellipse cx="162.768" cy="36.8684" rx="162.768" ry="36.8684" transform="matrix(0.915891 -0.401427 0.572336 0.820019 103.072 247.295)" fill="#FCFB7A"/>
+<ellipse cx="65.0614" cy="18.866" rx="65.0614" ry="18.866" transform="matrix(0.915891 -0.401427 0.572336 0.820019 197.25 219.996)" fill="#FDBC0A"/>
+<defs>
+<linearGradient id="paint0_linear_11237_3411" x1="260.547" y1="98.5094" x2="242.141" y2="-27.9523" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDD226"/>
+<stop offset="1" stop-color="#FDFA80"/>
+</linearGradient>
+</defs>
+</svg>
